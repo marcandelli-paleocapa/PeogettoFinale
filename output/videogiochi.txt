@@ -1,0 +1,7 @@
+6
+1|God Of War: Ragnarok|Action-Adventure|PlayStation|2022|94|2
+2|Elden Ring|Soulslike|PC & PlayStation|2022|97|2
+3|Rise of the Tomb Raider|Action-Adventure|PlayStation|2015|89|2
+4|ULTRAKILL|Sparatutto|PC|2020|91|1
+5|Dark Souls III|Soulslike|PC & PlayStation|2016|90|2
+6|Grand Theft Auto V|Sparatutto|PC & PlayStation|2013|97|1
